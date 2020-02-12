@@ -1,0 +1,17 @@
+name: ElHacker
+
+on: [Cyber Security]
+
+jobs:Nothing
+  build:
+
+    runs-on: Debian-latest
+
+    steps:
+    - uses: actions/Insdtgram Tool V1.01
+    - name: Run a one-line script
+      run: echo Hello, Friend!
+    - name: Hack is Easy
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
